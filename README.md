@@ -5,6 +5,12 @@ I also love diving into low-level details, studying file formats like PNG, MP3, 
 
 ---
 
+## 🏢 Current Position
+
+Currently working at FoodPass as a Fullstack Developer.
+
+---
+
 ## 🛠️ Tech Stack
 
 | Frontend                  | Backend                          | Protocolos & Web            | Linguagens                | Ferramentas & Outros         |
