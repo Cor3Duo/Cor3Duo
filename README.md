@@ -21,6 +21,12 @@ Também curto mergulhar no baixo nível, estudando formatos de arquivo como PNG,
 
 ---
 
+## 🏅 Codewars
+
+![ReversiveDev no Codewars](https://www.codewars.com/users/ReversiveDev/badges/small)
+
+---
+
 ## 📫 Como me encontrar
 
 - **GitHub:** [github.com/Cor3Duo](https://github.com/Cor3Duo)  
