@@ -1,7 +1,7 @@
 # Hi, I’m **Richard** 👋
 
-Desenvolvedor apaixonado por criar projetos criativos — de jogos a ferramentas. Gosto de explorar novas tecnologias e solucionar desafios interessantes.
-Também curto mergulhar no baixo nível, estudando formatos de arquivo como PNG, MP3, ELF, PE e outros.
+Passionate developer building creative projects — from games to tools. I enjoy exploring new technologies and solving interesting challenges.
+I also love diving into low-level details, studying file formats like PNG, MP3, ELF, PE, and more.
 
 ---
 
@@ -27,7 +27,7 @@ Também curto mergulhar no baixo nível, estudando formatos de arquivo como PNG,
 
 ---
 
-## 📫 Como me encontrar
+## 📫 How to Reach Me
 
 - **GitHub:** [github.com/Cor3Duo](https://github.com/Cor3Duo)  
 - **LinkedIn:** [linkedin.com/in/richard-santos-13aa651a2](https://linkedin.com/in/richard-santos-13aa651a2)  
