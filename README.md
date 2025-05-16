@@ -29,7 +29,7 @@ Currently working at FoodPass as a Fullstack Developer.
 
 ## 🏅 Codewars
 
-![ReversiveDev no Codewars](https://www.codewars.com/users/ReversiveDev/badges/small)
+![ReversiveDev no Codewars](https://www.codewars.com/users/richarddev/badges/small)
 
 ---
 
