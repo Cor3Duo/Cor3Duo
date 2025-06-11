@@ -37,4 +37,4 @@ Currently working at FoodPass as a Fullstack Developer.
 
 - **GitHub:** [github.com/Cor3Duo](https://github.com/Cor3Duo)  
 - **LinkedIn:** [linkedin.com/in/richard-santos-13aa651a2](https://linkedin.com/in/richard-santos-13aa651a2)  
-- **E‑mail:** caetanorichard41@gmail.com
+- **E‑mail:** rcaetano.dev@gmail.com
