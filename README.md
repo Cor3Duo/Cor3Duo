@@ -35,6 +35,5 @@ Currently working at FoodPass as a Fullstack Developer.
 
 ## 📫 How to Reach Me
 
-- **GitHub:** [github.com/Cor3Duo](https://github.com/Cor3Duo)  
-- **LinkedIn:** [www.linkedin.com/in/rcaetano-dev](https://www.linkedin.com/in/rcaetano-dev)  
-- **E‑mail:** rcaetano.dev@gmail.com
+- **GitHub:** [github.com/Cor3Duo](https://github.com/Cor3Duo)
+- **E‑mail:** caetanorichard41@gmail.com
